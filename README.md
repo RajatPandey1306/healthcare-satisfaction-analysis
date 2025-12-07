@@ -2,7 +2,9 @@
 
 **Data Storytelling Project using LLMs for Healthcare Performance Improvement**
 
-**Contact:** 21f3001699@ds.study.iitm.ac.in
+**Status:** ✅ Complete - Ready for Pull Request Review  
+**Contact:** 21f3001699@ds.study.iitm.ac.in  
+**GitHub Repository:** https://github.com/RajatPandey1306/healthcare-satisfaction-analysis
 
 ---
 
