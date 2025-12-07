@@ -2,7 +2,21 @@
 
 **Data Storytelling Project using LLMs for Healthcare Performance Improvement**
 
-**Contact:** 21f3001699@ds.study.iitm.ac.in
+**Status:** ✅ Complete - Ready for Pull Request Review  
+**Contact:** 21f3001699@ds.study.iitm.ac.in  
+**GitHub Repository:** https://github.com/RajatPandey1306/healthcare-satisfaction-analysis
+
+## 🤖 LLM-Assisted Analysis Methodology
+
+This project leverages Large Language Models (LLMs) for comprehensive data storytelling, following best practices documented at https://chatgpt.com/codex/tasks:
+
+- **Code Generation:** ChatGPT/Claude used to generate Python analysis script
+- **Data Storytelling:** LLM-assisted narrative creation for business impact
+- **Visualization Design:** LLM recommendations for effective chart presentation
+- **Strategic Insights:** LLM analysis to identify patterns and business implications
+- **Recommendation Framework:** LLM-generated strategic recommendations with implementation timelines
+
+**Tools Used:** ChatGPT (Code), Claude, and GitHub Copilot for analysis and insights
 
 ---
 
