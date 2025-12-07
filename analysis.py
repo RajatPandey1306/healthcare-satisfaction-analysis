@@ -1,6 +1,17 @@
 """
 Healthcare Patient Satisfaction Analysis
 Analyzing quarterly patient satisfaction scores against industry benchmarks
+
+ANALYSIS METHODOLOGY:
+This analysis was created using LLM-assisted techniques (ChatGPT Code, Claude)
+following best practices at https://chatgpt.com/codex/tasks
+
+Key Analysis Components:
+- Statistical metrics calculation (mean, variance, std dev)
+- Quarterly trend analysis and QoQ changes
+- Benchmark comparison (4.5 industry target)
+- Comprehensive visualization generation (10+ charts)
+- Data export and insights reporting
 """
 
 import pandas as pd
@@ -277,3 +288,9 @@ print(f"✓ Data exported: quarterly_satisfaction_data.csv")
 print("\n" + "=" * 70)
 print("ANALYSIS COMPLETE")
 print("=" * 70)
+
+# LLM-ASSISTED ANALYSIS NOTE
+# This script was generated with assistance from Large Language Models
+# (ChatGPT Code, Claude) using data storytelling methodology
+# Documentation: https://chatgpt.com/codex/tasks
+# See LLM_ANALYSIS_METHODOLOGY.md for detailed breakdown of LLM assistance
